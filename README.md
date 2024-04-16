@@ -92,5 +92,7 @@ public class CoinManager : MonoBehaviour
 }
 ```
 ## OUTPUT:
-
+![](./arvr.png)
+![](./image.png)
 ## RESULT:
+Thus a 2D game using C# program in unity is developed successfully.
